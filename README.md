@@ -182,9 +182,9 @@ Array
       [score] => 5
       [matches] => Array
         (
-          [0] => animal
-          [1] => monster
-          [2] => fear
+          [0] => lorem
+          [1] => ipsum
+          [2] => dolor
         )
     )
 
@@ -193,8 +193,8 @@ Array
       [score] => 2
       [matches] => Array
         (
-          [0] => animal
-          [2] => fear
+          [0] => lorem
+          [2] => dolor
         )
     )
 
@@ -203,7 +203,7 @@ Array
       [score] => 1
       [matches] => Array
         (
-          [0] => fear
+          [0] => ipsum
         )
     )
 
@@ -212,7 +212,7 @@ Array
       [score] => 1
       [matches] => Array
         (
-          [0] => monster
+          [0] => dolor
         )
     )
 
