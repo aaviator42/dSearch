@@ -62,7 +62,7 @@ for each item in index:
 <?php
 require 'dSearch.php';
 
-$index = array();;
+$index = array();
 
 //load the first ten chapters of Frankenstein in the search index
 for($i = 1; $i <= 10; $i++){
