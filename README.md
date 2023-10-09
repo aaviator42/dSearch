@@ -4,7 +4,7 @@ A simple but powerful PHP full-text search engine.
 `v2.0`: `2022-12-19`  
 License: `AGPLv3`
 
-See it in action [here](https://r.aavi.xyz/proj/dSearch/)!
+See it in action [here](https://aavi.xyz/proj/dSearch/)!
 
 ## What is this?
 
