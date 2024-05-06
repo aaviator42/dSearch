@@ -1,5 +1,5 @@
 # dSearch
-A simple but powerful PHP full-text search engine.  
+A simple but powerful PHP full-text search engine, making use of forward indices.  
 
 `v2.0`: `2022-12-19`  
 License: `AGPLv3`
@@ -24,7 +24,7 @@ If a match confidence of less than 100% is specified, dSearch will attempt to fi
 
 Results are order by descending number of matches found. Precedence: excluded > required > optional.
 
-dSearch is ideal for blogs, wikis and knowledge bases.
+dSearch is ideal for blogs, wikis and knowledge bases. For use cases where it is not feasible to store and search through the intire index in memory for each search, take a look at [iSearch](https://github.com/aaviator42/iSearch). 
 
 ## How does it work?
 
@@ -223,3 +223,8 @@ Array
 
 ## Requirements
 * [Supported versions](https://www.php.net/supported-versions.php) of PHP. As of writing that's 8.0+. dSearch almost certainly works on older versions of PHP, but is not tested on those.
+
+
+-----------
+
+Documentation updated: `2024-05-06`
